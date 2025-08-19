@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Enchanted Birthday Wishes",
+    "slug": "birthday-app",
+    "version": "1.0.0",
+    "sdkVersion": "48.0.0",
+    "platforms": ["android"],
+    "orientation": "portrait",
+    "icon": "./assets/cake_logo_transparent.png",
+    "splash": {
+      "image": "./assets/birthday_cake.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffeaf6"
+    },
+    "android": {
+      "package": "com.yourname.birthdayapp",
+      "versionCode": 1
+    }
+  }
+}
